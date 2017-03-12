@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelCS.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManagerCS.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\AnimatorCS.cs" Line="8" Column="96" />
+      <File FileName="Assets\Scripts\AudioScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BombCS.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\BulletCS.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\EnemyCS.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\HighScoreCS.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\LevelCS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LivesCS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissileCS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SaucerCS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreCS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShooterCS.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
